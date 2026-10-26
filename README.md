@@ -145,12 +145,12 @@ print(traversepath)
 # output
 
 
+<img width="487" height="387" alt="image" src="https://github.com/user-attachments/assets/492c1fe9-9380-440e-ac64-e842eca608de" />
+
+
 
 <img width="371" height="220" alt="image" src="https://github.com/user-attachments/assets/cca079a1-77dc-41b9-a78c-1284e188985f" />
 
-
-
-<img width="487" height="387" alt="image" src="https://github.com/user-attachments/assets/492c1fe9-9380-440e-ac64-e842eca608de" />
 
 # result
 
